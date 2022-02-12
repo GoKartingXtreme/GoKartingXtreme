@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @GoKartingXtreme
+- 👀 I’m interested in coding HTML
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on websites.
+- 📫 Email me at shadow.gpx@outlook.com
+- See you later!
